@@ -8,6 +8,7 @@ public class Employee {
 	Address address;
 	
 	public Employee() {
+		System.out.println("Create Employee!");
 
 	}
 	
